@@ -24,7 +24,7 @@ Links
 
 Images
 
-![Temple Logo](https://news.temple.edu/sites/news/files/173-1718_aprilfools_marchingband_800x400_dg.png)
+![Temple Marching Band Drummer](https://news.temple.edu/sites/news/files/173-1718_aprilfools_marchingband_800x400_dg.png)
 
 Tables
 
@@ -36,5 +36,5 @@ Tables
 
 Code
 
-```import spacy
-```
+`import spacy`
+
