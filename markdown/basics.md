@@ -23,6 +23,7 @@ Links
 [Temple University](https://www.temple.edu/)
 
 Images
+
 ![Temple Logo](https://news.temple.edu/sites/news/files/173-1718_aprilfools_marchingband_800x400_dg.png)
 
 Tables
@@ -31,3 +32,9 @@ Tables
 |----------|----------|
 |item 1    |item 2    |
 |----------|----------|
+|itme 3    | item 4   |
+
+Code
+
+```import spacy
+```
