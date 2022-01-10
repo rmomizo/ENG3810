@@ -36,7 +36,6 @@ Tables:
 |Heading 1|Heading 2|
 |----------|----------|
 |item 1    |item 2    |
-|----------|----------|
 |itme 3    | item 4   |
 
 Code:
