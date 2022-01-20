@@ -34,7 +34,7 @@ Table
 |item 1|item 2|
 |item 3|item 4|
 
-![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg)(https://www.temple.edu/)
+[![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg)](https://www.temple.edu/)
 
 <figure>
   
