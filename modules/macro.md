@@ -37,4 +37,4 @@ Table
 
 ![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg)
 
-![Screenshot of github repository page](https://github.com/rmomizo/ENG3810/raw/main/assets/Screen%20Shot%202022-01-20%20at%2011.35.14%20AM.png)
+![Screenshot of github repository page](https://github.com/rmomizo/ENG3810/raw/main/assets/Screen%20Shot%202022-01-20%20at%2011.35.14%20AM.png "Screenshot of github repository page")
