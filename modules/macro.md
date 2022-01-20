@@ -42,3 +42,19 @@ Table
  
 <figcaption>Temple University Logo</figcaption>
 </figure>
+
+# Inserting Images into Markdown files
+
+Temple University Logo
+
+![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg)
+
+Temple Logo with Title
+
+![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg "Temple University Logo")
+
+Temple University Logo as Link
+
+[![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg)](https://www.temple.edu/)
+
+![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg){: height="36px" width="36px"}
