@@ -34,28 +34,6 @@ Table
 |item 1|item 2|
 |item 3|item 4|
 
-[![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg)](https://www.temple.edu/)
 
-<figure>
-  
-![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg)
- 
-<figcaption>Temple University Logo</figcaption>
-</figure>
 
-# Inserting Images into Markdown files
 
-Temple University Logo
-
-![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg)
-
-Temple Logo with Title
-
-![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg "Temple University Logo")
-
-Temple University Logo as Link
-
-[![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg)](https://www.temple.edu/)
-
-HTML Image Tags
-<img src='https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg' alt='Temple University Logo' width=500/>
