@@ -35,6 +35,8 @@ Table
 |item 3|item 4|
 
 <figure>
+  
 ![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg)
-  <figcaption>Temple University Logo</figcaption>
+ 
+<figcaption>Temple University Logo</figcaption>
 </figure>
