@@ -57,4 +57,5 @@ Temple University Logo as Link
 
 [![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg)](https://www.temple.edu/)
 
-![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg){:height="36px" width="36px"}
+HTML Image Tags
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg' alt='Temple University Logo' width=500/>
