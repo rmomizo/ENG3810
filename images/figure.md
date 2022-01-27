@@ -3,7 +3,7 @@
 
 ![Apple Logo](Apple_logo_black.svg)
 
-![Temple University Logo](images/temple_logo.svg)
+![Temple University Logo](temple_logo.svg)
 
 
 <figure>
