@@ -12,5 +12,3 @@
 
 [![Temple University Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Temple_University_Logo.svg)](https://www.temple.edu/)
 
-
-![Github repository screenshot](f1.png)
